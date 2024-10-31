@@ -44,6 +44,12 @@ Automatic Theme Switching: Launch Terminal to automatically set the profile base
 Manual Toggle: You can toggle the system appearance using the Toggle System Appearance script in Raycast to see the Terminal theme change immediately.
 How It Works
 
+
+
+https://github.com/user-attachments/assets/8cf48848-0847-42e1-95c6-1f342d2aa491
+
+
+
 The SwitchTerminalProfile.applescript detects macOS's current appearance setting (dark or light mode) and applies the corresponding Terminal profile. The Initialize Terminal.sh script ensures this setting is applied whenever the Terminal is launched.
 
 ## Contribution
