@@ -25,13 +25,13 @@ Copy `SwitchTerminalProfile.applescript` to a suitable directory, like `~/.bin`:
 cp SwitchTerminalProfile.applescript ~/.bin/SwitchTerminalProfile.applescript
 ```
 
-Add the following line to your `.zshrc` or `.bashrc` file:
+3. Add the following line to your `.zshrc` or `.bashrc` file:
 ```bash
 # Initialize Terminal Theme
 ~/.bin/Initialize\ Terminal.sh
 ```
 
-3.Raycast Integration (Optional):
+4. Raycast Integration (Optional):
 Use an application like Raycast to run AppleScript.
 Add Toggle System Appearance.applescript to Raycast for easy toggling of the macOS appearance mode.
 ![](./images/Raycast.png)
