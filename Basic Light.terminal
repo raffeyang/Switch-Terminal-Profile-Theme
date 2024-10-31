@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundAlphaInactive</key>
+	<integer>1</integer>
+	<key>BackgroundColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwVGSBVJG51bGzUDQ4PEBES
+	ExRXTlNXaGl0ZVxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNz
+	RjEgMC45ABADgAKABNIWEBcYVE5TSUQQAoAD0hobHB1aJGNsYXNzbmFtZVgkY2xhc3Nl
+	c1xOU0NvbG9yU3BhY2WiHh9cTlNDb2xvclNwYWNlWE5TT2JqZWN00hobISJXTlNDb2xv
+	cqIhHwAIABEAGgAkACkAMgA3AEkATABRAFMAWQBfAGgAcAB9AJIAmQCgAKIApACmAKsA
+	sACyALQAuQDEAM0A2gDdAOoA8wD4AQAAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAA
+	AAABAw==
+	</data>
+	<key>BackgroundSettingsForInactiveWindows</key>
+	<true/>
+	<key>EastAsianAmbiguousWide</key>
+	<false/>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwVFlUkbnVsbNQNDg8QERIT
+	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAKgAAAAAAABAQgAKAA18QD0hh
+	Y2tORk0tUmVndWxhctIXGBkaWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNGb250ohkbWE5T
+	T2JqZWN0CBEaJCkyN0lMUVNYXmdud36FjpCSlKartr/GyQAAAAAAAAEBAAAAAAAAABwA
+	AAAAAAAAAAAAAAAAAADS
+	</data>
+	<key>FontAntialias</key>
+	<true/>
+	<key>FontWidthSpacing</key>
+	<real>1.004032258064516</real>
+	<key>ProfileCurrentVersion</key>
+	<real>2.0699999999999998</real>
+	<key>ShouldRestoreContent</key>
+	<true/>
+	<key>ShowActiveProcessInTabTitle</key>
+	<true/>
+	<key>ShowActiveProcessInTitle</key>
+	<false/>
+	<key>ShowActivityIndicatorInTab</key>
+	<true/>
+	<key>ShowCommandKeyInTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<false/>
+	<key>ShowRepresentedURLInTabTitle</key>
+	<true/>
+	<key>ShowRepresentedURLInTitle</key>
+	<false/>
+	<key>ShowRepresentedURLPathInTitle</key>
+	<false/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
+	<key>ShowTerminalInDockIcon</key>
+	<true/>
+	<key>ShowWindowSettingsNameInTitle</key>
+	<false/>
+	<key>TextColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwVGSBVJG51bGzUDQ4PEBES
+	ExRXTlNXaGl0ZVxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNz
+	QjAAEAOAAoAE0hYQFxhUTlNJRBACgAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzXE5T
+	Q29sb3JTcGFjZaIeH1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSGhshIldOU0NvbG9yoiEf
+	CBEaJCkyN0lMUVNZX2hwfZKZnJ6goqesrrC1wMnW2ebv9PwAAAAAAAABAQAAAAAAAAAj
+	AAAAAAAAAAAAAAAAAAAA/w==
+	</data>
+	<key>UseBoldFonts</key>
+	<false/>
+	<key>UseBrightBold</key>
+	<true/>
+	<key>name</key>
+	<string>Basic Light</string>
+	<key>type</key>
+	<string>Window Settings</string>
+</dict>
+</plist>
